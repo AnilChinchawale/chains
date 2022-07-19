@@ -1169,6 +1169,19 @@
   "faucets": [],
   "infoURL": "https://web3games.org/"
 }, {
+  "name": "Kaiba Lightning Chain Testnet",
+  "chainId": 104,
+  "shortName": "tklc",
+  "networkId": 104,
+  "nativeCurrency": {
+    "name": "Kaiba Testnet Token",
+    "symbol": "tKAIBA",
+    "decimals": 18
+  },
+  "rpc": ["https://klc.live/"],
+  "faucets": [],
+  "infoURL": "https://kaibadefi.com"
+}, {
   "name": "Web3Games Devnet",
   "chainId": 105,
   "shortName": "dw3g",
@@ -1935,6 +1948,19 @@
   "rpc": ["https://datarpc1.xsc.pub", "https://datarpc2.xsc.pub", "https://datarpc3.xsc.pub"],
   "faucets": ["https://xsc.pub/faucet"],
   "infoURL": "https://xsc.pub/"
+}, {
+  "name": "F(x)Core Mainnet Network",
+  "chainId": 530,
+  "shortName": "f(x)Core",
+  "networkId": 530,
+  "nativeCurrency": {
+    "name": "Function X",
+    "symbol": "FX",
+    "decimals": 18
+  },
+  "rpc": ["https://fx-json-web3.functionx.io:8545"],
+  "faucets": [],
+  "infoURL": "https://functionx.io/"
 }, {
   "name": "Candle",
   "chainId": 534,
@@ -3301,6 +3327,19 @@
   "faucets": ["https://faucet.paribuscan.com"],
   "infoURL": "https://net.paribu.com"
 }, {
+  "name": "JFIN Chain",
+  "chainId": 3501,
+  "shortName": "jfin",
+  "networkId": 3501,
+  "nativeCurrency": {
+    "name": "JFIN Coin",
+    "symbol": "jfin",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.jfinchain.com"],
+  "faucets": [],
+  "infoURL": "https://jfinchain.com"
+}, {
   "name": "Bittex Mainnet",
   "chainId": 3690,
   "shortName": "btx",
@@ -3833,6 +3872,19 @@
   "rpc": ["https://eth.bd.evmos.org:8545"],
   "faucets": [],
   "infoURL": "https://evmos.org"
+}, {
+  "name": "BerylBit Mainnet",
+  "chainId": 9012,
+  "shortName": "brb",
+  "networkId": 9012,
+  "nativeCurrency": {
+    "name": "BerylBit Chain Native Token",
+    "symbol": "BRB",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.berylbit.io"],
+  "faucets": ["https://t.me/BerylBit"],
+  "infoURL": "https://www.beryl-bit.com"
 }, {
   "name": "Genesis Coin",
   "chainId": 9100,
@@ -5003,6 +5055,19 @@
   "rpc": ["https://devnet-s7-ethapi.quarkchain.io", "http://eth-jrpc.devnet.quarkchain.io:39907"],
   "faucets": [],
   "infoURL": "https://www.quarkchain.io"
+}, {
+  "name": "ETND Chain Mainnets",
+  "chainId": 131419,
+  "shortName": "ETND",
+  "networkId": 131419,
+  "nativeCurrency": {
+    "name": "ETND",
+    "symbol": "ETND",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.node1.etnd.pro/"],
+  "faucets": [],
+  "infoURL": "https://www.etnd.pro"
 }, {
   "name": "Milkomeda C1 Testnet",
   "chainId": 200101,
